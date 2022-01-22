@@ -309,4 +309,58 @@ border-bottom: 2px solid green;
 }
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Blog</title>
+ <link rel="stylesheet" href="./style.css">
+</head>
+<body class="body">
+<header class="main-header">
+<nav>
+<a class="link-home" href="index.html">HOME</a>
+<a class="link-blog" href="#">BLOG</a>
+</nav>
+</header>
+<main>
+<section class="blog-section">
+<article>
+<img src="bulb.jpg" alt="pic1"  style="float:left; margin-right:10px; margin-top:15px;"/>
 
+<h2 class="blogone">The Standard Lorem Ispum, used since the 1500s</h2>
+
+<p class="blog-para">But i must explain to you how all this mistaken of denouncing 
+and pleasure and praising pain was born and i will give you a complete account of the system but i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you the complete account of the system</p>
+<button class="button">Read more </button>
+</article>
+</section>
+</main>
+<section class="lastsection">
+<article>
+<div class="two-images">
+<figure class="half-width">
+<img src="pic03.png" alt="pic03"/>
+<figcaption class="para-heading2">1914 translation by H. Rackham</figcaption>
+<figcaption>But i must tell you how all t his mistaken idea of denouncingpleasure and praising pain was born and i will give you a complete account of the system but i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you a complete account of the system </figcaption>
+<a class="learnmore">Learn More</a>
+</figure>
+<figure class="half-width">
+<img src="pic02-1.png" alt="pic02"/>
+<figcaption class="blog-heading3">Lorem Ispum is simply dummy text of the printing and typesetting</figcaption>
+<figcaption class="blog-last">but i must tell you all this mistaken idea of denouncing and praising pain was born and i will give you a complete account of the system</figcaption>
+<a class="learnmore">Learn More</a>
+</figure>
+
+
+</div>
+
+</div>
+
+</article>
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+</body>
+</html>
